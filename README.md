@@ -31,7 +31,7 @@ different story.
 
 ## Why this exists
 
-This project extends a Biology A* interest and a finance/econometrics
+This project extends a finance/econometrics
 GitHub portfolio (see the companion
 [`psx-censored-volatility`](https://github.com/uzair1509/psx-censored-volatility)
 / [`mtgarch`](https://pypi.org/project/mtgarch/) repos) into public-health
